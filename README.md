@@ -59,9 +59,9 @@ Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da le
 
 ## :sparkles: Desafios ##
 
-:no_entry: Dados rotulados para treinar o modelo;
+:no_entry: Dados rotulados para treinar o modelo
 
-## :sparkles: Contribuições esperadas ##
+## :checkered_flag: Contribuições esperadas ##
 
 :heavy_check_mark: Método não-supervisionado para detecçao de poscionamentos\
 :heavy_check_mark: Método semi-supervisionado para rotulagem de dados\
