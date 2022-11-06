@@ -65,10 +65,10 @@ Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da le
 
 :heavy_check_mark: Método não-supervisionado para detecçao de poscionamentos: MLP\
 :heavy_check_mark: Método semi-supervisionado para rotulagem de dados: Tranformers - UMAP - HDBSCAN\
-:heavy_check_mark: Métrica para avaliar a qualidade da rotulagem: Função de custo que minimiza o atributo ´´´probabilities_``` do HSBSCAN
+:heavy_check_mark: Métrica para avaliar a qualidade da rotulagem: Função de custo que minimiza o atributo ```probabilities_``` do HSBSCAN
 
 [^note]:
-  probabilities_: A força com que cada amostra de texto é atrbuída a um determinado cluster atribuído.
+  ```probabilities_```: A força com que cada amostra de texto é atrbuída a um determinado cluster.
 
 ## Técnoligias empregadas ##
 
