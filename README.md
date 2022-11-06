@@ -6,7 +6,7 @@
   <!-- <a href="https://dissertacao.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Dissertacao</h1>
+<h1 align="center">Dissertacção</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/dissertacao?color=56BEB8">
@@ -46,7 +46,7 @@
 
 ## Escopo do projeto ##
 
-Desenvolver um método automático para **detecção de posicionamentos**, a partir de postagens coletadas no Twitter.
+Desenvolver um método não-supervisionado para **detecção de posicionamentos** a partir de postagens coletadas no Twitter.
 
 ## Entendimento do negócio - Detecção de Posicionamentos ##
 
@@ -65,7 +65,7 @@ Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da le
 
 :heavy_check_mark: Método não-supervisionado para detecçao de poscionamentos\
 :heavy_check_mark: Método semi-supervisionado para rotulagem de dados\
-:heavy_check_mark: Métrica para avaliar a qualidade da rotuçagem
+:heavy_check_mark: Métrica para avaliar a qualidade da rotulagem
 
 ## Técnoligias empregadas ##
 
