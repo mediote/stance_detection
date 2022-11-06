@@ -74,11 +74,12 @@ Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da le
 
 The following tools were used in this project:
 
-- [MPNET](https://expo.io/)
-- [Python](https://nodejs.org/en/)
-- [Tranformers](https://pt-br.reactjs.org/)
-- [UMAP](https://reactnative.dev/)
-- [HDBSCAN](https://www.typescriptlang.org/)
+- [MPNET](https://huggingface.co/docs/transformers/model_doc/mpnet)
+- [Python](https://python.org.br/)
+- [Tranformers](https://huggingface.co/docs/transformers/main/en/index)
+- [UMAP](https://umap-learn.readthedocs.io/en/latest/)
+- [HDBSCAN](https://hdbscan.readthedocs.io/en/latest/how_hdbscan_works.html)
+- [MLFlow](https://www.mlflow.org/)
 
 ## Requirements ##
 
