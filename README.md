@@ -1,4 +1,4 @@
-<div align="center" id="top"> 
+<div align="center" id="top">
   <img src="./.github/app.gif" alt="Dissertacao" />
 
   &#xa0;
@@ -33,7 +33,7 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -46,9 +46,9 @@
 
 ## :dart: Escopo do projeto ##
 
-Desenvolver um método automático para **detecção de posicionamentos**, a partir de postagens coletadas no Twitter. 
+Desenvolver um método automático para **detecção de posicionamentos**, a partir de postagens coletadas no Twitter.
 
-## :dart: Entendimento do negócio - Detecção de Posicionamentos  ##
+## :dart: Entendimento do negócio - Detecção de Posicionamentos ##
 
 Detecção de Posiocionamento, é uma tarefa que visa determinar automaticamente a partir de um trecho de texto se o **autor é a favor, contra ou neutro** em relação a uma proposição ou alvo. O alvo pode ser uma pessoa, uma organização, uma política de governo, um movimento, um produto, etc.
 
@@ -59,13 +59,13 @@ Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da le
 
 ## :sparkles: Desafios ##
 
-:heavy_check_mark: Dados rotulados para treinar o modelo;
+:no_entry: Dados rotulados para treinar o modelo;
 
 ## :sparkles: Contribuições esperadas ##
 
-- [x] Método não-supervisionado para detecçao de poscionamentos;\
-- [x] Método semi-supervisionado para rotulagem de dados;\
-- [x] Métrica para avaliar a qualidade da rotuçagem;
+:white_check_mark: Método não-supervisionado para detecçao de poscionamentos\
+:white_check_mark: Método semi-supervisionado para rotulagem de dados\
+:white_check_mark: Métrica para avaliar a qualidade da rotuçagem
 
 ## :rocket: Técnoligias empregadas ##
 
@@ -75,7 +75,7 @@ The following tools were used in this project:
 - [Python](https://nodejs.org/en/)
 - [Tranformers](https://pt-br.reactjs.org/)
 - [UMAP](https://reactnative.dev/)
-- [HDMSCAN](https://www.typescriptlang.org/)
+- [HDBSCAN](https://www.typescriptlang.org/)
 
 ## :white_check_mark: Requirements ##
 
@@ -102,7 +102,6 @@ $ yarn start
 ## :memo: License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
 
 Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
 
