@@ -44,11 +44,11 @@
 
 <br>
 
-## :dart: Escopo do projeto ##
+## Escopo do projeto ##
 
 Desenvolver um método automático para **detecção de posicionamentos**, a partir de postagens coletadas no Twitter.
 
-## :dart: Entendimento do negócio - Detecção de Posicionamentos ##
+## Entendimento do negócio - Detecção de Posicionamentos ##
 
 Detecção de Posiocionamento, é uma tarefa que visa determinar automaticamente a partir de um trecho de texto se o **autor é a favor, contra ou neutro** em relação a uma proposição ou alvo. O alvo pode ser uma pessoa, uma organização, uma política de governo, um movimento, um produto, etc.
 
@@ -57,17 +57,17 @@ Detecção de Posiocionamento, é uma tarefa que visa determinar automaticamente
 
 Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da legalização do aborto.
 
-## :sparkles: Desafios ##
+## Desafios ##
 
 :no_entry: Dados rotulados para treinar o modelo
 
-## :checkered_flag: Contribuições esperadas ##
+## Contribuições esperadas ##
 
 :heavy_check_mark: Método não-supervisionado para detecçao de poscionamentos\
 :heavy_check_mark: Método semi-supervisionado para rotulagem de dados\
 :heavy_check_mark: Métrica para avaliar a qualidade da rotuçagem
 
-## :rocket: Técnoligias empregadas ##
+## Técnoligias empregadas ##
 
 The following tools were used in this project:
 
@@ -77,11 +77,11 @@ The following tools were used in this project:
 - [UMAP](https://reactnative.dev/)
 - [HDBSCAN](https://www.typescriptlang.org/)
 
-## :white_check_mark: Requirements ##
+## Requirements ##
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## Starting ##
 
 ```bash
 # Clone this project
@@ -99,7 +99,7 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
+## License ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
