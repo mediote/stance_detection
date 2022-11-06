@@ -63,9 +63,9 @@ Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da le
 
 ## :sparkles: Contribuições esperadas ##
 
-:white_check_mark: Método não-supervisionado para detecçao de poscionamentos\
-:white_check_mark: Método semi-supervisionado para rotulagem de dados\
-:white_check_mark: Métrica para avaliar a qualidade da rotuçagem
+:heavy_check_mark: Método não-supervisionado para detecçao de poscionamentos\
+:heavy_check_mark: Método semi-supervisionado para rotulagem de dados\
+:heavy_check_mark: Métrica para avaliar a qualidade da rotuçagem
 
 ## :rocket: Técnoligias empregadas ##
 
