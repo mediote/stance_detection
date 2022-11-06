@@ -59,7 +59,7 @@ Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da le
 
 ## Desafios ##
 
-:no_entry: Dados rotulados para treinar o modelo
+:no_entry: Falta de dados rotulados para treinar o modelo
 
 ## Contribuições esperadas ##
 
