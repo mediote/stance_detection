@@ -52,9 +52,11 @@ Desenvolver um método não-supervisionado para **detecção de posicionamentos*
 
 Detecção de Posiocionamento, é uma tarefa que visa determinar automaticamente a partir de um trecho de texto se o **autor é a favor, contra ou neutro** em relação a uma **proposição ou alvo**. O alvo pode ser uma pessoa, uma organização, uma política de governo, um movimento, um produto, etc.
 
-- Alvo
+- Autor :woman:
+  - Uauário do Twitter
+- Alvo :dart:
   - legalização do aborto
-- Tweet
+- Tweet :bookmark_tabs:
   - Grávidas são mais do que incubadoras ambulantes e tem direitos!
 
 Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da legalização do aborto.
