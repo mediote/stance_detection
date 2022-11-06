@@ -61,11 +61,14 @@ Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da le
 
 :no_entry: Falta de dados rotulados para treinar o modelo
 
-## Contribuições esperadas ##
+## Contribuições esperadas / está encaminhado ##
 
-:heavy_check_mark: Método não-supervisionado para detecçao de poscionamentos\
-:heavy_check_mark: Método semi-supervisionado para rotulagem de dados\
-:heavy_check_mark: Métrica para avaliar a qualidade da rotulagem
+:heavy_check_mark: Método não-supervisionado para detecçao de poscionamentos: MLP\
+:heavy_check_mark: Método semi-supervisionado para rotulagem de dados: Tranformers - UMAP - HDBSCAN\
+:heavy_check_mark: Métrica para avaliar a qualidade da rotulagem: Função de custo que minimiza o atributo ´´´probabilities_``` do HSBSCAN
+
+[^note]:
+  probabilities_: A força com que cada amostra de texto é atrbuída a um determinado cluster atribuído.
 
 ## Técnoligias empregadas ##
 
