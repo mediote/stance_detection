@@ -6,7 +6,7 @@
   <!-- <a href="https://dissertacao.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Dissertacção</h1>
+<h1 align="center">Dissertação</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/dissertacao?color=56BEB8">
