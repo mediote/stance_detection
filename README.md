@@ -44,6 +44,8 @@
 
 <br>
 
+cluster semente
+
 ## Escopo do projeto ##
 
 Desenvolver um método não-supervisionado para **detecção de posicionamentos** a partir de postagens coletadas no Twitter.
@@ -124,3 +126,6 @@ Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" targe
 &#xa0;
 
 <a href="#top">Back to top</a>
+
+
+
