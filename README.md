@@ -63,9 +63,10 @@ Detecção de Posiocionamento, é uma tarefa que visa determinar automaticamente
 
 Podemos deduzir a partir do exemplo acima, que o autor do tweet é a favor da legalização do aborto.
 
-## Entendimento dos dados - Twitter API
+## Entendimento dos dados
 
-Coleta de dados via twitter api sobre determinado tema (politica?), ou utilizar os dados que temos sobre vacinação.
+- Dados rotulados do SEM-EVAL 2016 para criação de baselines.
+- Dados do domínio da vacinação para validar a técnica e comparar com os resultados obtidos nos estudos anteriores.
 
 ## Desafios ##
 
@@ -126,6 +127,3 @@ Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" targe
 &#xa0;
 
 <a href="#top">Back to top</a>
-
-
-
