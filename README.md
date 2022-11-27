@@ -48,7 +48,7 @@ cluster semente
 
 ## Escopo do projeto ##
 
-Desenvolver um método não-supervisionado para **detecção de posicionamentos** a partir de postagens coletadas no Twitter.
+Desenvolver um método não-supervisionado para **detecção de posicionamentos** a partir de postagens do Twitter.
 
 ## Entendimento do negócio - Detecção de Posicionamentos ##
 
