@@ -44,7 +44,12 @@
 
 <br>
 
-cluster semente
+## Colab 
+
+| Notebooks | Link  |
+|---|---|
+| Automatic data labeling  | [![Open on Colab](https://colab.research.google.com/github/mediote/stance_detection/blob/main/notebooks/3.1_automatic_data_labeling.ipynb)  |
+
 
 ## Escopo do projeto ##
 
