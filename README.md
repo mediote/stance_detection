@@ -48,8 +48,8 @@
 
 | Notebooks | Link  |
 |---|---|
-| Crawling on Twitter API, text pre-processing and Topic modeling with BERTopic  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/stance_detection/blob/main/notebooks/3.1_automatic_data_labeling.ipynb)  |
-
+| Automatic Labeling  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/stance_detection/blob/main/notebooks/3.1_automatic_data_labeling.ipynb)  |
+| MultiLayer Perceptron  | [![Open on Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mediote/stance_detection/blob/main/notebooks/4.1_mult_layer_perceptron.ipynb)  |
 
 
 ## Escopo do projeto ##
