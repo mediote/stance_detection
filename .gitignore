@@ -1,0 +1,7 @@
+venv
+.env
+tfvenv
+data-bkp
+*__pycache__
+*.csv
+data
