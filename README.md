@@ -78,11 +78,19 @@ To access the datasets used in our analyses, please feel free to reach out for m
 ## Citation
 
 ```bibtex
-@inproceedings{de2023sssd,
-  title={SSSD: Leveraging Pre-trained Models and Semantic Search for Semi-supervised Stance Detection},
-  author={de Sousa, Andr{\'e} and Becker, Karin},
-  booktitle={Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing},
-  pages={264--273},
-  year={2023}
+@inproceedings{de-sousa-becker-2023-sssd,
+    title = "{SSSD}: Leveraging Pre-trained Models and Semantic Search for Semi-supervised Stance Detection",
+    author = "de Sousa, Andr{\'e}  and
+      Becker, Karin",
+    editor = "Mitkov, Ruslan  and
+      Angelova, Galia",
+    booktitle = "Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing",
+    month = sep,
+    year = "2023",
+    address = "Varna, Bulgaria",
+    publisher = "INCOMA Ltd., Shoumen, Bulgaria",
+    url = "https://aclanthology.org/2023.ranlp-1.30",
+    pages = "264--273",
+    abstract = "Pre-trained models (PTMs) based on the Transformers architecture are trained on massive amounts of data and can capture nuances and complexities in linguistic expressions, making them a powerful tool for many natural language processing tasks. In this paper, we present SSSD (Semantic Similarity Stance Detection), a semi-supervised method for stance detection on Twitter that automatically labels a large, domain-related corpus for training a stance classification model. The method assumes as input a domain set of tweets about a given target and a labeled query set of tweets of representative arguments related to the stances. It scales the automatic labeling of a large number of tweets, and improves classification accuracy by leveraging the power of PTMs and semantic search to capture context and meaning. We largely outperformed all baselines in experiments using the Semeval benchmark.",
 }
 ```
